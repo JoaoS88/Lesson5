@@ -1,0 +1,45 @@
+﻿  timeComplexityOfCollections.cpp
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(121,5): warning C4984: 'if constexpr' is a C++17 language extension
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(92,37): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(92,37): warning C4267:         with
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(92,37): warning C4267:         [
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(92,37): warning C4267:             _Ty=int
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(92,37): warning C4267:         ]
+      J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(92,37):
+      the template instantiation context (the oldest one first) is
+          J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(155,32):
+          see reference to function template instantiation '__int64 profileBackInsert<std::vector<int,std::allocator<int>>>(Container &,size_t)' being compiled
+          with
+          [
+              Container=std::vector<int,std::allocator<int>>
+          ]
+  
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(105,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(105,38): warning C4267:         with
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(105,38): warning C4267:         [
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(105,38): warning C4267:             _Ty=int
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(105,38): warning C4267:         ]
+      J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(105,38):
+      the template instantiation context (the oldest one first) is
+          J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(165,31):
+          see reference to function template instantiation '__int64 profileFrontInsert<std::deque<int,std::allocator<int>>>(Container &,size_t)' being compiled
+          with
+          [
+              Container=std::deque<int,std::allocator<int>>
+          ]
+  
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(125,65): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(125,65): warning C4267:         with
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(125,65): warning C4267:         [
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(125,65): warning C4267:             _Ty=int
+J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(125,65): warning C4267:         ]
+      J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(125,65):
+      the template instantiation context (the oldest one first) is
+          J:\proj\Lesson5\Module1_Task1\timeComplexityOfCollections.cpp(171,32):
+          see reference to function template instantiation '__int64 profileRandomAccess<std::vector<int,std::allocator<int>>>(Container &,size_t)' being compiled
+          with
+          [
+              Container=std::vector<int,std::allocator<int>>
+          ]
+  
+  Module1_Task1.vcxproj -> J:\proj\Lesson5\x64\Debug\Module5_Task1.exe

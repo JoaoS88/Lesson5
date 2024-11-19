@@ -1,0 +1,3 @@
+﻿  stringReversal.cpp
+J:\proj\Lesson5\Module5_Task2\stringReversal.cpp(32,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Module5_Task2.vcxproj -> J:\proj\Lesson5\x64\Debug\Module5_Task2.exe
